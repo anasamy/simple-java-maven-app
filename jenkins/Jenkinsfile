@@ -23,7 +23,7 @@ pipeline {
         }
         stage('Complete') {
             steps {
-                echo 'Job Complete anas!'
+                echo 'Job Complete from dev !'
             }
         }
     }
